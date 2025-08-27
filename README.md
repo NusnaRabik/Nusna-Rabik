@@ -9,7 +9,7 @@
 ## 🛠️ Skills & Technologies
 
 ### 🚀 Languages & Frameworks
-- **Programming:** C, Java, Python, JavaScript  
+- **Programming:** C, Java, Python, JavaScript, HTML, CSS 
 - **Frontend:** React.js, Next.js  
 - **AI & ML Tools:** LangChain, LangGraph  
 
@@ -33,7 +33,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NusnaRabik&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=NusnaRabik&theme=tokyonight)  
 
 ---
 
