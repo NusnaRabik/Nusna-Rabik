@@ -29,9 +29,9 @@
 
 ## 📊 GitHub Stats
 
-![Nusna's GitHub stats](https://github-readme-stats.vercel.app/api?username=fathimanusna&show_icons=true&theme=tokyonight)  
+![Nusna's GitHub stats](https://github-readme-stats.vercel.app/api?username=NusnaRabik&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fathimanusna&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NusnaRabik&layout=compact&theme=tokyonight)  
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fathimanusna&theme=tokyonight)  
 
