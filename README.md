@@ -33,7 +33,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NusnaRabik&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fathimanusna&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NusnaRabik&theme=tokyonight)  
 
 ---
 
