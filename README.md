@@ -37,7 +37,7 @@
 ---
 
 ## 📫 Connect with Me 
-- 💼 LinkedIn: [Your LinkedIn Link](www.linkedin.com/in/fathimanuzna753)  
+- 💼 LinkedIn: (www.linkedin.com/in/fathimanuzna753)  
 - 📧 Email: fathimanza@gmail.com   
 
 ---
